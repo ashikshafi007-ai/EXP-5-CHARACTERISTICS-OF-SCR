@@ -62,7 +62,9 @@ Forward breakover voltage, VBO = 11.5 V (from the recorded observation).
 Holding voltage, VH ≈ 0.72 V (from the recorded observation).
 Holding current, IH ≈ 12.4 mA (as recorded in the supplied observation/result).
 Forward resistance, RF = ΔVAK / ΔIAK, to be obtained from the slope of the appropriate portion of the plotted characteristic.
-10. RESULT
+<img width="1002" height="565" alt="Screenshot 2026-09-08 134808" src="https://github.com/user-attachments/assets/add8e80f-8b73-4966-8fb0-15f1facef437" />
+
+11. RESULT
 The V-I characteristics of the SCR have been studied and plotted.
 Forward breakover voltage, VBO = 11.5 V.
 Holding voltage, VH = 0.72 V.
